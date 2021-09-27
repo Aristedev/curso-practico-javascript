@@ -5,6 +5,12 @@ const lista1 = [
     400000000,
 ];
 
+// Método .sort() para ordenar la lista:
+lista1.sort(function compare(a,b){
+    return a - b;
+})
+
+
 // Usamos la función hecha en promedio.js
 function calcularMediaAritmetica(lista) {
     const sumaLista = lista.reduce(
