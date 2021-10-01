@@ -21,3 +21,9 @@ Avances del curso practico de JavaScript
 - Segundo paso: Implementar las fórmulas en JavaScript
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JS con HTML
+
+## Reto: Promedio ponderado
+- Primer paso: definir las formulas
+- Segundo paso: Implementar las fórmulas en JavaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: Integrar JS con HTML
