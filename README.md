@@ -27,3 +27,10 @@ Avances del curso practico de JavaScript
 - Segundo paso: Implementar las fórmulas en JavaScript
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JS con HTML
+
+## Reto: Analisis de salarios
+- Primer paso: definir las formulas de la mediana
+- Segundo paso: definir la formula para el top 10% de los salarios
+- Tercer paso: Implementar las fórmulas en JavaScript
+- Cuarto paso: Crear funciones
+- Quinto paso: Integrar JS con HTML
