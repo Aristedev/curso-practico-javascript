@@ -34,3 +34,9 @@ Avances del curso practico de JavaScript
 - Tercer paso: Implementar las fórmulas en JavaScript
 - Cuarto paso: Crear funciones
 - Quinto paso: Integrar JS con HTML
+
+## FINAL PROJECT XD : Gastos mensuales
+- Primer paso: definir las formulas del porcentaje y las deudas obligatorias
+- Segundo paso: Implementar las formulas en JavaScript
+- Tercer paso: Crear funciones
+- Caurto paso: Integrar JS con HMTL
